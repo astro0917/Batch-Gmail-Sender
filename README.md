@@ -75,3 +75,11 @@ python gMAIL.py
 
 
 If everything is configured correctly, the script will start sending emails to your recipients.
+
+## Requirements
+`` 
+Python3
+``
+``
+pip3
+``
