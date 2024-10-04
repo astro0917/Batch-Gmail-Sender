@@ -1,3 +1,5 @@
+# Personalized Batch Gmail Sender
+
 This project is a Python script that allows you to send personalized batch emails to multiple recipients. The script automates the process of sending an email to a list of recipients, while customizing each email with the recipient's name and a personalized message.
 
 Features:
