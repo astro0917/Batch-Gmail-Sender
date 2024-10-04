@@ -25,12 +25,12 @@ cd Batch-Gmail-Sender
 
 ### Install Dependencies
    
-This project uses the python-dotenv library to manage environment variables. Install it with pip:
+This project uses the secure-smtplib library. Install it with pip:
 
 
 
 ``
-pip install python-dotenv
+pip install secure-smtplib
 ``
 
 
