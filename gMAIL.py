@@ -12,7 +12,7 @@ recipients = [
       
 ]
 
-subject = "your title goes here"
+subject = "your subject title goes here"
 email_template = """
 
 YOUR HTML BODY OF TEXT GOES HERE
